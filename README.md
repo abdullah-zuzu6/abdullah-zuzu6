@@ -32,7 +32,7 @@ My journey has been driven by a desire to create impactful, user-friendly, and e
 ## 🌟 Current Focus  
 
 - Exploring **React.js** to build powerful and interactive user interfaces  
-- Beginning my journey into backend development to create full-stack applications  
+- Starting to learn one more css framwork  **tailwind.css**
 - Continuously honing my skills in modern technologies to stay ahead  
 
 ---
