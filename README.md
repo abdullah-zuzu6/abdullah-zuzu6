@@ -61,7 +61,7 @@ My journey has been driven by a desire to create impactful, user-friendly, and e
 
 Feel free to reach out to me for collaborations, project ideas, or even a friendly tech chat.  
 - **Email**: [abdullahsajjad261178@gmail.com]  
-- **GitHub**: [https://github.com/abdullah-zuzu6/](#)  
+- **GitHub**: [https://github.com/abdullah-zuzu6](#)  
 
 
 ---
