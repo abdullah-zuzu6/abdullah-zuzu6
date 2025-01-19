@@ -45,7 +45,7 @@ My journey has been driven by a desire to create impactful, user-friendly, and e
 - **Features**:  
   - Secure login and sign-up functionality  
   - Dynamic blog creation with clean UI  
-  - Robust backend API  
+    
 
 ---
 
@@ -60,7 +60,7 @@ My journey has been driven by a desire to create impactful, user-friendly, and e
 ## 📫 Let's Connect!  
 
 Feel free to reach out to me for collaborations, project ideas, or even a friendly tech chat.  
-- **Email**: [abdullahsajjad261178@gmail.com]  
+- **Email**: [abdullahsajjad261178@gmail.com](#)
 - **GitHub**: [https://github.com/abdullah-zuzu6](#)  
 
 
