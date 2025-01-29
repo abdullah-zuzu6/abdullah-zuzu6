@@ -25,8 +25,8 @@ My journey has been driven by a desire to create impactful, user-friendly, and e
 
 ### Additional Skills  
 - **API Handling**: Building and consuming RESTful APIs  
-- Version Control: **Git** and **GitHub** for collaboration and source control  
-
+- Version Control: **Git** and **GitHub** for collaboration and source control
+- Grapics designing :Amazing **Design** for best user experience. 
 ---
 
 ## 🌟 Current Focus  
